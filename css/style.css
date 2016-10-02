@@ -1,0 +1,33 @@
+body {
+  background-color: sienna;
+  
+}
+
+.larger-image {
+  width: 400px;
+}
+
+.gold-text {
+  color: gold;
+  }
+
+
+h1 {
+  
+  font-family: San-serif, Hevetica;
+}
+h2 {
+  font-size: 30px;
+}
+
+.thick-silver-border {
+  border-color: antiquewhite;
+  border-width: 30px;
+  padding: 20px;
+  border-style: solid;
+}
+
+
+
+
+  
